@@ -6,3 +6,4 @@ Converted from [here](https://github.com/nprintz/junos-sublime-pkg).
 
 Source can be found [here](https://github.com/woodjamie/vscode-junos-syntax).
 
+https://marketplace.visualstudio.com/items?itemName=jamiewoodio.junos
