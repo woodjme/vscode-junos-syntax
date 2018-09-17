@@ -73,8 +73,7 @@
 			<key>comment</key>
 			<string>Block Comment or annotation</string>
 			<key>end</key>
-			<string>(\*/|
-)</string>
+			<string>(\*/)</string>
 			<key>name</key>
 			<string>comment.block.junos</string>
 		</dict>
