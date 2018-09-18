@@ -178,7 +178,7 @@
 			<key>comment</key>
 			<string>Interface names</string>
 			<key>match</key>
-			<string>\b((((ge|et|so|fe|gr|xe|lt|vt|si|sp)(-\d+/\d+/\d+))|(st|lo|me|vme|ae)\d{1,3}|irb|vlan)(\.\d{1,5})?)\b(?![-_&lt;&gt;])</string>
+			<string>\b((((ge|et|so|fe|gr|xe|lt|vt|si|sp)(-(\d|\*)\/(\d|\*)\/(\d|\*)))|(st|lo|me|vme|ae)\d{1,3}|irb|vlan)(\.\d{1,5})?)(?![-_&lt;&gt;])</string>
 			<key>name</key>
 			<string>support.class.junos</string>
 		</dict>
