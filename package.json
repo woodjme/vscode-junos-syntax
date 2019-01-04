@@ -82,7 +82,7 @@
             {
                 "language": "junos",
                 "scopeName": "text.junos",
-                "path": "./syntaxes/junos.tmLanguage"
+                "path": "./syntaxes/Junos.tmLanguage"
             }
         ]
     }
