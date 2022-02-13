@@ -73,7 +73,8 @@
                     ".conf.46",
                     ".conf.47",
                     ".conf.48",
-                    ".conf.49"
+                    ".conf.49",
+                    ".jos"
                 ],
                 "configuration": "./language-configuration.json"
             }
